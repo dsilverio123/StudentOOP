@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Simplified Student Management System - C++ School Project
 
 ## Project Overview
